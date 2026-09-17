@@ -25,7 +25,7 @@
 
 ## 🚀 Live Demo
 
-**[🌐 Open the app →](https://options-pricing-model.streamlit.app)**
+**[🌐 Open the app →](https://options-pricing-model-rfvkkty4jphvjc9e9eqvig.streamlit.app)**
 
 ---
 
